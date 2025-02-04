@@ -22,5 +22,4 @@ This repository contains an advanced crypto market-making trading algorithm that
 - Use this code responsibly and after thorough testing.
 - The integrated stop condition feature provides a safeguard against significant losses, enhancing the algorithm's viability for successful crypto market-making endeavors.
 
-### External Link
-If you are interested in learning more about Market Making, refer to my medium article: https://vishnugovind10.medium.com/unveiling-the-world-of-decentralized-finance-defi-and-decentralized-exchanges-dexes-2e180a440e52
+
